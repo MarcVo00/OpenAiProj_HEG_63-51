@@ -1,5 +1,9 @@
 # OpenAI Planning Assistant
 
+## Libraries to install
+- OpenAi
+- python-dotenv
+
 ## How to install
 - installer python
 - python -m venv venv (pour créer un environnement virtuel)
@@ -9,10 +13,6 @@
 ## How to write the file ".env"
 - OPENAI_API_KEY="Your OpenAI api key"
 - OPENAI_ORG_ID="Your Organisation ID"
-
-## Libraries to install
-- OpenAi
-- python-dotenv
 
 ## How it works
 1. le code va regarder si un fichier config.json existe.  
