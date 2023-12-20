@@ -1,25 +1,11 @@
 {
   "assistants": {
-    "bastien": "asst_3WBPdmCmgIREhGS2ehjOZAtx",
-    "marc": "asst_gj5BJuUXqd8u5k6LGOqxe3EN",
-    "tugba": "asst_TpfxROEFXWxEtEnefkNhrWDz"
+    "marc": "asst_ISUgBWqGHwsV1Vlf24t3Vun9"
   },
   "files": [
     {
-      "openai_id": "file-MAbabOG1uRYULorvh9wjJZAm",
-      "file_name": "bastien.pdf"
-    },
-    {
-      "openai_id": "file-2Asm0T9xtg4sLc8HwR6T8Q6C",
+      "openai_id": "file-NzKb6ozX7CaZ1vMuwAVcVhwq",
       "file_name": "marc.pdf"
-    },
-    {
-      "openai_id": "file-bJG6QedlPWIROyH8rxM4w34C",
-      "file_name": "tugba.pdf"
-    },
-    {
-      "openai_id": "file-peo2DCdcSrgET6DrTHK5ZF8l",
-      "file_name": "tugbaTravail.pdf"
     }
   ]
 }
