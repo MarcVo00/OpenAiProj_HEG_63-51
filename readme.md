@@ -6,6 +6,10 @@
 - .\venv\Scripts\activate (pour activer l'environnement virtuel)
 - pip install -r requirements.txt (pour installer les librairies)
 
+## How to write the file ".env"
+- OPENAI_API_KEY="Your OpenAI api key"
+- OPENAI_ORG_ID="Your Organisation ID"
+
 ## Libraries to install
 - OpenAi
 - python-dotenv
