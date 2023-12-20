@@ -1,0 +1,11 @@
+#Ignore environment files
+venv/
+
+#Ignore .env file
+.env
+
+#Ignore .pdf files
+bastien.pdf
+marc.pdf
+tugba.pdf
+tugabaTravail.pdf
