@@ -12,7 +12,7 @@ Le planning que l'assistant proposera, sera sous forme CSV. L'étudiant pourra r
 ## Comment installer
 - installer python
 - python -m venv venv (pour créer un environnement virtuel)
-- .\venv\Scripts\activate (pour activer l'environnement virtuel)
+- .\venv\Scripts\activate (pour activer l'environnement virtuel)    Pour Windows
 - pip install -r requirements.txt (pour installer les librairies)
 
 ## Créer un fichier ".env" avec les informations suivantes
